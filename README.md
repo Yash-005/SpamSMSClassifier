@@ -34,6 +34,11 @@ The SMS Spam Detection App is a machine learning-powered application designed to
 
 Visit the deployed application at [SMS Spam Detection App](https://spamsmsclassifier-cs5y957kjj8yulqj6glabs.streamlit.app/).
 
+
+![Screenshot (1477)](https://github.com/Yash-005/SpamSMSClassifier/assets/121573519/fad9f9fd-68c2-4917-a5ef-e104b98b9b28)
+
+
+
 ## Contribution
 
 We welcome contributions to enhance the capabilities and efficiency of PhishGuard. To contribute, please follow these steps:
