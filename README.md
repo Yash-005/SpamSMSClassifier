@@ -49,9 +49,13 @@ We welcome contributions to enhance the capabilities and efficiency of PhishGuar
 4. Submit a pull request
 
 
-### Additional Notes:
-- Make sure to replace the placeholder GitHub repository URL `https://github.com/yourusername/SMS_Classifier.git` with the actual URL of your GitHub repository.
-- If you have a LICENSE file in your repository, the link `[LICENSE](LICENSE)` will correctly link to it. If not, consider adding one or adjusting the README accordingly.
+## License
 
-This README should be comprehensive enough for both users who wish to use the app and developers who might want to contribute to the project.
+SMS SPAM CLASSIFIER is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Feel free to reach out for any questions or concerns. Happy phishing detection!
+
+**Note:** This readme assumes you have Python and Git installed on your system. Adjust installation commands based on your environment.
+
+
 
